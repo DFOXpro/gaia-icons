@@ -1,30 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:cc="http://creativecommons.org/ns#"
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-	xmlns:svg="http://www.w3.org/2000/svg"
-	xmlns="http://www.w3.org/2000/svg"
-	width="30px"
-	height="30px"
-	viewBox="0 0 30 30"
-	version="1.1"
->
-	<defs
-		id="defs3045" />
-	<path
-		class="iconSVG"
-		style="stroke:none"
-		d="m 5.5980118,5.5645835 8.5268022,0.012833 0,16.7385835 c 0,1.307166 -0.88839,2.109106 -2.111814,2.11025 l -6.4149882,0.0055 z"
-	/>
-	<path
-		class="iconSVG"
-		style="stroke:none"
-		d="m 15.896,5.5696785 8.544,4.259e-4 0,6.4338956 c -0.02094,1.20493 -0.967894,2.109991 -2.11,2.11 l -6.434,5e-5 z"
-	/>
-	<path
-		class="iconSVG"
-		style="stroke:none"
-		d="m 15.896,15.872449 8.544,0 0,6.443551 c 0,1.28869 -0.905065,2.109874 -2.11,2.11 l -6.434,6.75e-4 z"
-	/>
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+	<path d="M5.598 5.565l8.527.012v16.74c0 1.306-.89 2.108-2.112 2.11l-6.415.005zM15.896 5.57h8.544v6.434c-.02 1.205-.968 2.11-2.11 2.11h-6.434zM15.896 15.872h8.544v6.444c0 1.29-.905 2.11-2.11 2.11h-6.434z"/>
 </svg>

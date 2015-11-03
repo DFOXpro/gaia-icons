@@ -1,34 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-	xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:cc="http://creativecommons.org/ns#"
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-	xmlns:svg="http://www.w3.org/2000/svg"
-	xmlns="http://www.w3.org/2000/svg"
-	width="30px"
-	height="30px"
-	viewBox="0 0 30 30"
-	version="1.1"
->
-	<defs
-		id="defs3045" />
-	<g
-		sketch:type="MSPage"
-		transform="matrix(0,-1,-1,0,30.628573,30.628572)"
-		style="stroke:none">
-		<g
-			sketch:type="MSArtboardGroup"
-			transform="translate(0.628569,0.011888)">
-			<g
-				class="iconSVG"
-				sketch:type="MSLayerGroup"
-				transform="translate(3,6.2)">
-				<path
-					d="m 16.285713,-0.023774 c -1.885715,0 -3.42857,1.628572 -3.42857,3.6 l 0,15.280918 3.42857,0 z m -5.142856,0 c -1.8857136,0 -3.4285716,1.62857 -3.4285716,3.6000002 l 0,15.2809178 3.4285716,0 z m -8.5714284,3.599999 0,15.280919 3.4285708,0 0,-18.880918 c -1.8857136,0 -3.4285708,1.628571 -3.4285708,3.599999 z M 21.387157,-0.023774 c -1.885714,0 -3.433916,1.6285788 -3.428573,3.5999998 l 0.04142,15.2809182 3.428573,0 z"
-					sketch:type="MSShapeGroup"
-				/>
-			</g>
-		</g>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+	<path d="M24.44 10.714c0 1.886-1.628 3.43-3.6 3.43H5.56v-3.43zm0 5.143c0 1.886-1.628 3.43-3.6 3.43H5.56v-3.43zm-3.6 8.572H5.56V21h18.88c0 1.886-1.628 3.43-3.6 3.43zm3.6-18.817c0 1.886-1.628 3.434-3.6 3.428L5.56 9V5.57z"/>
 </svg>
